@@ -19,6 +19,13 @@ let myName:String = "Doremon"
 nameString = "Nardanong.s12345"
 //myName = "Doremon1234" // Cannot Compile Error
 
+//Operting
+var answer1:Int = numberInt+1000 + Int(numberDob)
+var number4:String = "500"
+var number5:Int = Int(number4)!
+
+
+
 
 
 
